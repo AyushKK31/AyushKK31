@@ -28,6 +28,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AyushKK31&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AyushKK31&icon=5&color=12)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/Ayushkk31/AyushKK31/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
