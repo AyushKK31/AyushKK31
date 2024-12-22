@@ -26,8 +26,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AyushKK31&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center"><div align="center">
+
+![snake gif](https://github.com/Ayushkk31/AyushKK31/blob/output/github-snake-dark.svg)
 
 ---
-![snake gif](https://github.com/Ayushkk31/AyushKK31/blob/output/github-snake-dark.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
