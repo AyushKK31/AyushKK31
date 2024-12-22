@@ -21,12 +21,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AyushKK31&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+
+<div align="center">
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AyushKK31&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<div align="center"><div align="center">
+  
+</div>
 
 ![snake gif](https://github.com/Ayushkk31/AyushKK31/blob/output/github-snake-dark.svg)
 
