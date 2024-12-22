@@ -1,3 +1,5 @@
+<img src=”https://github.com/user-attachments/assets/1fe998bf-7c9d-4a5d-99e3-cf6191778e97" alt=”my banner”>
+
 <h1 align="center">Hi 👋, I'm Ayush Kashyap</h1>
 <h3 align="center">A passionate web developer | Coder | Artist from India</h3>
 
